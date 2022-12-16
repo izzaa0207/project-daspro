@@ -1,0 +1,30 @@
+C:\Users\ANUGRAH\Desktop\Adu Dadu\obj\Debug\net6.0\Adu Dadu.csproj.AssemblyReference.cache
+C:\Users\ANUGRAH\Desktop\Adu Dadu\obj\Debug\net6.0\Adu Dadu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANUGRAH\Desktop\Adu Dadu\obj\Debug\net6.0\Adu Dadu.AssemblyInfoInputs.cache
+C:\Users\ANUGRAH\Desktop\Adu Dadu\obj\Debug\net6.0\Adu Dadu.AssemblyInfo.cs
+C:\Users\ANUGRAH\Desktop\Adu Dadu\obj\Debug\net6.0\Adu Dadu.csproj.CoreCompileInputs.cache
+C:\Users\ANUGRAH\Desktop\Adu Dadu\bin\Debug\net6.0\Adu Dadu.exe
+C:\Users\ANUGRAH\Desktop\Adu Dadu\bin\Debug\net6.0\Adu Dadu.deps.json
+C:\Users\ANUGRAH\Desktop\Adu Dadu\bin\Debug\net6.0\Adu Dadu.runtimeconfig.json
+C:\Users\ANUGRAH\Desktop\Adu Dadu\bin\Debug\net6.0\Adu Dadu.dll
+C:\Users\ANUGRAH\Desktop\Adu Dadu\bin\Debug\net6.0\Adu Dadu.pdb
+C:\Users\ANUGRAH\Desktop\Adu Dadu\obj\Debug\net6.0\Adu Dadu.dll
+C:\Users\ANUGRAH\Desktop\Adu Dadu\obj\Debug\net6.0\refint\Adu Dadu.dll
+C:\Users\ANUGRAH\Desktop\Adu Dadu\obj\Debug\net6.0\Adu Dadu.pdb
+C:\Users\ANUGRAH\Desktop\Adu Dadu\obj\Debug\net6.0\Adu Dadu.genruntimeconfig.cache
+C:\Users\ANUGRAH\Desktop\Adu Dadu\obj\Debug\net6.0\ref\Adu Dadu.dll
+C:\Users\HP\Desktop\Dasar Pemrograman\Adu Dadu\bin\Debug\net6.0\Adu Dadu.exe
+C:\Users\HP\Desktop\Dasar Pemrograman\Adu Dadu\bin\Debug\net6.0\Adu Dadu.deps.json
+C:\Users\HP\Desktop\Dasar Pemrograman\Adu Dadu\bin\Debug\net6.0\Adu Dadu.runtimeconfig.json
+C:\Users\HP\Desktop\Dasar Pemrograman\Adu Dadu\bin\Debug\net6.0\Adu Dadu.dll
+C:\Users\HP\Desktop\Dasar Pemrograman\Adu Dadu\bin\Debug\net6.0\Adu Dadu.pdb
+C:\Users\HP\Desktop\Dasar Pemrograman\Adu Dadu\obj\Debug\net6.0\Adu Dadu.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Dasar Pemrograman\Adu Dadu\obj\Debug\net6.0\Adu Dadu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Dasar Pemrograman\Adu Dadu\obj\Debug\net6.0\Adu Dadu.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Dasar Pemrograman\Adu Dadu\obj\Debug\net6.0\Adu Dadu.AssemblyInfo.cs
+C:\Users\HP\Desktop\Dasar Pemrograman\Adu Dadu\obj\Debug\net6.0\Adu Dadu.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Dasar Pemrograman\Adu Dadu\obj\Debug\net6.0\Adu Dadu.dll
+C:\Users\HP\Desktop\Dasar Pemrograman\Adu Dadu\obj\Debug\net6.0\refint\Adu Dadu.dll
+C:\Users\HP\Desktop\Dasar Pemrograman\Adu Dadu\obj\Debug\net6.0\Adu Dadu.pdb
+C:\Users\HP\Desktop\Dasar Pemrograman\Adu Dadu\obj\Debug\net6.0\Adu Dadu.genruntimeconfig.cache
+C:\Users\HP\Desktop\Dasar Pemrograman\Adu Dadu\obj\Debug\net6.0\ref\Adu Dadu.dll
