@@ -1,0 +1,60 @@
+C:\Users\ANUGRAH\Desktop\TebakKataa\obj\Debug\net6.0\TebakKataa.csproj.AssemblyReference.cache
+C:\Users\ANUGRAH\Desktop\TebakKataa\obj\Debug\net6.0\TebakKataa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANUGRAH\Desktop\TebakKataa\obj\Debug\net6.0\TebakKataa.AssemblyInfoInputs.cache
+C:\Users\ANUGRAH\Desktop\TebakKataa\obj\Debug\net6.0\TebakKataa.AssemblyInfo.cs
+C:\Users\ANUGRAH\Desktop\TebakKataa\obj\Debug\net6.0\TebakKataa.csproj.CoreCompileInputs.cache
+C:\Users\ANUGRAH\Desktop\TebakKataa\bin\Debug\net6.0\TebakKataa.exe
+C:\Users\ANUGRAH\Desktop\TebakKataa\bin\Debug\net6.0\TebakKataa.deps.json
+C:\Users\ANUGRAH\Desktop\TebakKataa\bin\Debug\net6.0\TebakKataa.runtimeconfig.json
+C:\Users\ANUGRAH\Desktop\TebakKataa\bin\Debug\net6.0\TebakKataa.dll
+C:\Users\ANUGRAH\Desktop\TebakKataa\bin\Debug\net6.0\TebakKataa.pdb
+C:\Users\ANUGRAH\Desktop\TebakKataa\obj\Debug\net6.0\TebakKataa.dll
+C:\Users\ANUGRAH\Desktop\TebakKataa\obj\Debug\net6.0\refint\TebakKataa.dll
+C:\Users\ANUGRAH\Desktop\TebakKataa\obj\Debug\net6.0\TebakKataa.pdb
+C:\Users\ANUGRAH\Desktop\TebakKataa\obj\Debug\net6.0\TebakKataa.genruntimeconfig.cache
+C:\Users\ANUGRAH\Desktop\TebakKataa\obj\Debug\net6.0\ref\TebakKataa.dll
+E:\TebakKataa\bin\Debug\net6.0\TebakKataa.exe
+E:\TebakKataa\bin\Debug\net6.0\TebakKataa.deps.json
+E:\TebakKataa\bin\Debug\net6.0\TebakKataa.runtimeconfig.json
+E:\TebakKataa\bin\Debug\net6.0\TebakKataa.dll
+E:\TebakKataa\bin\Debug\net6.0\TebakKataa.pdb
+E:\TebakKataa\obj\Debug\net6.0\TebakKataa.csproj.AssemblyReference.cache
+E:\TebakKataa\obj\Debug\net6.0\TebakKataa.GeneratedMSBuildEditorConfig.editorconfig
+E:\TebakKataa\obj\Debug\net6.0\TebakKataa.AssemblyInfoInputs.cache
+E:\TebakKataa\obj\Debug\net6.0\TebakKataa.AssemblyInfo.cs
+E:\TebakKataa\obj\Debug\net6.0\TebakKataa.csproj.CoreCompileInputs.cache
+E:\TebakKataa\obj\Debug\net6.0\TebakKataa.dll
+E:\TebakKataa\obj\Debug\net6.0\refint\TebakKataa.dll
+E:\TebakKataa\obj\Debug\net6.0\TebakKataa.pdb
+E:\TebakKataa\obj\Debug\net6.0\TebakKataa.genruntimeconfig.cache
+E:\TebakKataa\obj\Debug\net6.0\ref\TebakKataa.dll
+C:\Users\HP\Desktop\TebakKataa\bin\Debug\net6.0\TebakKataa.exe
+C:\Users\HP\Desktop\TebakKataa\bin\Debug\net6.0\TebakKataa.deps.json
+C:\Users\HP\Desktop\TebakKataa\bin\Debug\net6.0\TebakKataa.runtimeconfig.json
+C:\Users\HP\Desktop\TebakKataa\bin\Debug\net6.0\TebakKataa.dll
+C:\Users\HP\Desktop\TebakKataa\bin\Debug\net6.0\TebakKataa.pdb
+C:\Users\HP\Desktop\TebakKataa\obj\Debug\net6.0\TebakKataa.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\TebakKataa\obj\Debug\net6.0\TebakKataa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\TebakKataa\obj\Debug\net6.0\TebakKataa.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\TebakKataa\obj\Debug\net6.0\TebakKataa.AssemblyInfo.cs
+C:\Users\HP\Desktop\TebakKataa\obj\Debug\net6.0\TebakKataa.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TebakKataa\obj\Debug\net6.0\TebakKataa.dll
+C:\Users\HP\Desktop\TebakKataa\obj\Debug\net6.0\refint\TebakKataa.dll
+C:\Users\HP\Desktop\TebakKataa\obj\Debug\net6.0\TebakKataa.pdb
+C:\Users\HP\Desktop\TebakKataa\obj\Debug\net6.0\TebakKataa.genruntimeconfig.cache
+C:\Users\HP\Desktop\TebakKataa\obj\Debug\net6.0\ref\TebakKataa.dll
+C:\Users\HP\Desktop\Dasar Pemrograman\TebakKataa\bin\Debug\net6.0\TebakKataa.exe
+C:\Users\HP\Desktop\Dasar Pemrograman\TebakKataa\bin\Debug\net6.0\TebakKataa.deps.json
+C:\Users\HP\Desktop\Dasar Pemrograman\TebakKataa\bin\Debug\net6.0\TebakKataa.runtimeconfig.json
+C:\Users\HP\Desktop\Dasar Pemrograman\TebakKataa\bin\Debug\net6.0\TebakKataa.dll
+C:\Users\HP\Desktop\Dasar Pemrograman\TebakKataa\bin\Debug\net6.0\TebakKataa.pdb
+C:\Users\HP\Desktop\Dasar Pemrograman\TebakKataa\obj\Debug\net6.0\TebakKataa.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Dasar Pemrograman\TebakKataa\obj\Debug\net6.0\TebakKataa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Dasar Pemrograman\TebakKataa\obj\Debug\net6.0\TebakKataa.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Dasar Pemrograman\TebakKataa\obj\Debug\net6.0\TebakKataa.AssemblyInfo.cs
+C:\Users\HP\Desktop\Dasar Pemrograman\TebakKataa\obj\Debug\net6.0\TebakKataa.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Dasar Pemrograman\TebakKataa\obj\Debug\net6.0\TebakKataa.dll
+C:\Users\HP\Desktop\Dasar Pemrograman\TebakKataa\obj\Debug\net6.0\refint\TebakKataa.dll
+C:\Users\HP\Desktop\Dasar Pemrograman\TebakKataa\obj\Debug\net6.0\TebakKataa.pdb
+C:\Users\HP\Desktop\Dasar Pemrograman\TebakKataa\obj\Debug\net6.0\TebakKataa.genruntimeconfig.cache
+C:\Users\HP\Desktop\Dasar Pemrograman\TebakKataa\obj\Debug\net6.0\ref\TebakKataa.dll
